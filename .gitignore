@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# 运行时产物
+xtu-download/
+*.apk
+*.log
